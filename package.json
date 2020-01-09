@@ -1,0 +1,36 @@
+{
+  "name": "fancy-weather",
+  "version": "1.0.0",
+  "description": "Fancy Weather",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cors-anywhere": "^0.4.1",
+    "country-list": "^2.2.0",
+    "google-translate": "^3.0.0",
+    "postal-code": "0.0.5",
+    "translate": "^1.1.0",
+    "webpack": "^4.41.2",
+    "zipcode": "^0.1.1",
+    "zipcodes": "^8.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-loader": "^3.0.2",
+    "eslint-plugin-import": "^2.18.2",
+    "prettier-eslint": "^9.0.1",
+    "webpack-cli": "^3.3.10"
+  },
+  "scripts": {
+    "test": "test",
+    "build": "webpack -p",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RAMP4"
+  },
+  "author": "Artsem Balunda (@RAMP4)",
+  "license": "ISC"
+}
