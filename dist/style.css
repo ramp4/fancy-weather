@@ -54,7 +54,7 @@ body {
   width: 3.15vw;
   min-height: 44px;
   min-width: 44px;
-  background-image: url(./dist/assets/RefreshButton.svg);
+  background-image: url(./assets/RefreshButton.svg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -81,7 +81,7 @@ body {
 .refreshButtonInsider {
   height: 50%;
   width: 50%;
-  background-image: url(./dist/assets/refreshButtonInsider.svg);
+  background-image: url(./assets/refreshButtonInsider.svg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -118,7 +118,7 @@ body {
 
 .lang-switcher__arrow {
   content: "";
-  background-image: url(./dist/assets/langButtonArrow.svg);
+  background-image: url(./assets/langButtonArrow.svg);
   height: 22%;
   width: 22%;
   min-width: 10px;
@@ -263,7 +263,7 @@ body {
   width: 1.39vw;
   min-height: 17px;
   min-width: 17px;
-  background-image: url(./dist/assets/microphone.svg);
+  background-image: url(./assets/microphone.svg);
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
